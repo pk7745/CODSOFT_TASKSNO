@@ -47,3 +47,10 @@ ENV/
 htmlcov/
 .tox/
 .nox/
+
+# Task 5 Runtime Data & Backups
+Task5_ContactBook/contacts.json
+Task5_ContactBook/contacts.json.corrupt-*
+contacts.json
+contacts.json.corrupt-*
+

@@ -1,0 +1,29 @@
+{
+    "max_id_num": 3,
+    "contacts": [
+        {
+            "id": "C001",
+            "name": "Pavan Kumar",
+            "phone": "9876543210",
+            "email": "pavan.demo@example.com",
+            "address": "Bengaluru, Karnataka",
+            "favorite": true
+        },
+        {
+            "id": "C002",
+            "name": "Rahul Sharma",
+            "phone": "9988776655",
+            "email": "rahul.demo@example.com",
+            "address": "Mumbai, Maharashtra",
+            "favorite": false
+        },
+        {
+            "id": "C003",
+            "name": "Ananya Rao",
+            "phone": "9123456789",
+            "email": "ananya.demo@example.com",
+            "address": "Hyderabad, Telangana",
+            "favorite": true
+        }
+    ]
+}
